@@ -1,2 +1,2 @@
-Google Finance Gem For Ruby written for Stock Project 
-- created to do basic fetches from google finance. Wasn't going to publish but after looking at yahoofinance figured this would be an easier alternative
+<h1>Google Finance Gem For Ruby written for Stock Project </h1>
+<p> Created to do basic fetches from google finance. </p>
